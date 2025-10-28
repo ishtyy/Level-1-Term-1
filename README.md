@@ -1,6 +1,6 @@
 # Level-1-Term-1
-You can access all the project files here which I have done in Level 1 Term 1 in BUET.
+You can access the project files here which I have done in Level 1 Term 1 in BUET.
 Also,
-Here you can access the youtube video of my project showcasing:
+Here you can access the youtube video of my project showcasing: https://youtu.be/y2IuWCdKPJQ?si=1ewhqVe8pV1wfQS3
 
-https://youtu.be/y2IuWCdKPJQ?si=1ewhqVe8pV1wfQS3
+
